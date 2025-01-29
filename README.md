@@ -1,4 +1,4 @@
-# Course Average and Grade Calculator
+# Grade Calculator
 
 A simple JavaScript-based web application that calculates the average grade from user-entered course marks and assigns a corresponding letter grade.
 
